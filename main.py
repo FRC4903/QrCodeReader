@@ -1,6 +1,5 @@
 import glob
 import cv2 as cv
-# import pandas as pd
 import pathlib
 import csv
 import os
