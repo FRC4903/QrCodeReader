@@ -34,7 +34,7 @@ while True:
             open(f"Teams\\{Vl[0]}.csv", "a").close()
             with open(f"Teams\\{Vl[0]}.csv", "a", encoding='UTF8') as f:
                 w = csv.writer(f)
-                w.writerow(["Match Number", "Scouter", "extra cones", "extra cubes", "taxi", "balance attempt", "preloaded cone", "preload cube", "scored preload", "cone upper", "cone mid", "cone lower", "cube upper", "cube mid", "cube lower", "links", "game pieces picked up", "defence", "time to climb", "climb attempts", "climb susscfel", "auto notes", "teleop notes", "endgame notes" ])
+                w.writerow(["Match Number", "Scouter", "extra cones", "extra cubes", "taxi", "balance attempt", "preloaded cone", "preload cube", "scored preload", "cone upper", "cone mid", "cone lower", "cube upper", "cube mid", "cube lower", "links", "game pieces picked up", "defence", "time to climb", "climb attempts", "climb successful", "auto notes", "teleop notes", "endgame notes" ])
                 w.writerow(Vl[1:])
 
     if not ret:
