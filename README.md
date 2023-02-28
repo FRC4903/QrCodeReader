@@ -1,5 +1,9 @@
 # QrCodeReader
 The program which reads the data from the scouting app and appends it into a csv corresponding to the team number
 
-# Download
+## Download
 download the latest release from the releases tab on github
+
+## Running the app
+Run the .exe file inside of it's own folder for best results  
+Show the QR code to the camera and it should create a new csv file for the team if not already prexisting  
