@@ -6,6 +6,9 @@ import os
 
 lastValue = ""
 
+if(not (os.path.exists("Teams"))):
+    os.mkdir("Teams")
+
 #Starts the video capture
 cap = cv.VideoCapture(0)
 if not cap.isOpened():
@@ -24,18 +27,18 @@ while True:
         lastValue = value
 
         print(value)
-        Vl = value.split(",")
+        Vl = value.split("~~~")
 
         if(os.path.exists(f"Teams\\{Vl[0]}.csv")):
             with open(f"Teams\\{Vl[0]}.csv", "a", encoding='UTF8') as f:
                 w = csv.writer(f)
-                w.writerow(Vl[1:])
+                w.writerow(Vl)
         else:
             open(f"Teams\\{Vl[0]}.csv", "a").close()
             with open(f"Teams\\{Vl[0]}.csv", "a", encoding='UTF8') as f:
                 w = csv.writer(f)
-                w.writerow(["Match Number", "Scouter", "extra cones", "extra cubes", "taxi", "balance attempt", "preloaded cone", "preload cube", "scored preload", "cone upper", "cone mid", "cone lower", "cube upper", "cube mid", "cube lower", "links", "game pieces picked up", "defence", "time to climb", "climb attempts", "climb successful", "auto notes", "teleop notes", "endgame notes" ])
-                w.writerow(Vl[1:])
+                w.writerow(["Team Number","Match Number", "Scouter", "extra cones", "extra cubes", "taxi", "balance attempt", "preloaded cone", "preload cube", "scored preload", "cone upper", "cone mid", "cone lower", "cube upper", "cube mid", "cube lower", "links", "game pieces picked up", "defence", "time to climb", "climb attempts", "climb successful", "auto notes", "teleop notes", "endgame notes" ])
+                w.writerow(Vl)
 
     if not ret:
         print("Can't receive frame (stream end?). Exiting ...")
