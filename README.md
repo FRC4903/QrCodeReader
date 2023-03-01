@@ -7,3 +7,5 @@ The program which reads the data from the scouting app and appends it into a csv
 ## Running the app
 Run the .exe file inside of it's own folder for best results  
 Show the QR code to the camera and it should create a new csv file for the team if not already prexisting  
+
+#### _If it crashes just run it again I'm not sure why it will crash sometimes it shouldn't matter because the data saves anyway_
