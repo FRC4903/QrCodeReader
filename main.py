@@ -64,7 +64,7 @@ while True:
                                 "Lower Cone", "Upper Cube", "Mid cube", "Lower Cube", "Links",
                                 "Picked Up", "Capable to Pick Up From Station", "Capable to Pick Up From Floor","Can go over bump", "Stationable", "Did Defend", "Was Defended", "Not Tipsy", "Little Tipsy", "Very Tipsy", "Time", "# of Robot's Docked", "Docking attempts",
                                 "Endgame Docked", "Endgame Engaged", "Parked", "Auto Notes", "Teleop Notes", "Endgame Notes", "Won", "RP" ])
-                w.writerow(Vl)
+                    w.writerow(Vl)
 
     if not ret:
         print("Can't receive frame (stream end?). Exiting ...")
