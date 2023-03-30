@@ -1,0 +1,13 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4976,p1,Al,0,0,3,No,No,Yes,No,No,No,No,1,0,0,1,1,0,2,0,No,Yes,Yes,No,No,12,1,Yes,Yes,No,,missed twice,,Yes,3
+4976,Practice 4,,0,0,2,No,No,Yes,No,Yes,Yes,No,3,1,0,0,0,0,0,2,No,Yes,Yes,No,No,27,0,No,Yes,No,,,,No,0
+4976,3,Sarah,0,0,1,Yes,No,Yes,No,Yes,No,No,0,0,0,0,0,0,2,1,No,Yes,No,No,Yes,11,1,No,Yes,No,,difficulty picking up,,Yes,3
+4976,11,MZ,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,4,0,0,0,0,1,2,4,No,Yes,Yes,No,No,43,1,Yes,Yes,No,quick balance ,very fast and accurate placing,ignore timer ,Yes,3
+4976,16,Aayan,0,0,2,No,Yes,Yes,No,No,No,Yes,2,0,0,1,0,0,1,3,No,Yes,No,No,No,7,1,No,Yes,No,,,,No,1
+4976,19,Grace,0,0,1,Yes,No,Yes,No,Yes,No,No,2,2,0,1,0,0,3,5,Yes,Yes,Yes,Yes,Yes,1,0,No,No,Yes,,,,Yes,3
+4976,qual 25,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,2,0,0,3,0,0,0,5,No,No,No,No,Yes,15,1,Yes,Yes,No,,,2 balanced,Yes,3
+4976,35,Dorothy,0,0,1,Yes,No,Yes,No,Yes,No,No,4,0,0,1,0,0,0,0,No,Yes,No,No,No,18,1,No,Yes,No,,interesting high placement,,Yes,3
+4976,qual 40,lucy,0,0,3,No,No,No,No,No,Yes,No,2,0,1,1,0,0,2,0,Yes,Yes,Yes,Yes,No,0,0,Yes,Yes,No,,,,Yes,2
+4976,qual 43,Lucy,0,0,2,No,No,Yes,No,Yes,No,Yes,3,0,0,2,0,0,4,0,Yes,Yes,No,No,Yes,21,1,No,Yes,No,,,,Yes,3
+4976,51,MZ,0,0,1,Yes,No,Yes,No,Yes,No,No,2,0,1,0,0,2,3,1,No,Yes,No,No,Yes,4,1,Yes,Yes,No,,"picked up and placed, then pushed pieces into low node",,Yes,3

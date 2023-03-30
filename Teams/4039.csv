@@ -1,2 +1,14 @@
-Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Stationable,Did Defend,Was Defended,Not Tipsy,Little Tipsy,Very Tipsy,Time,# of Robot's Docked,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
-4039,,,0,0,none,No,No,No,No,No,No,No,0,4,0,0,0,0,0,0,Yes,Yes,No,No,No,No,No,No,No,0,0,2,No,No,No,,yurhrj,,Yes,5
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4039,Practice 3,Aayan,0,0,2,No,Yes,Yes,No,Yes,No,Yes,2,0,0,0,1,0,2,2,No,Yes,No,No,No,28,0,No,Yes,No,,took long to pick up,,Yes,2
+4039,practice 5,miles,0,0,3,Yes,No,Yes,No,Yes,No,No,3,0,1,2,0,0,1,6,Yes,Yes,Yes,No,No,0,0,No,No,Yes,,cone fell from top,,No,0
+4039,1,Aayan,0,0,2,No,Yes,Yes,No,Yes,No,Yes,3,1,0,2,1,0,3,5,No,Yes,Yes,No,No,13,0,No,Yes,No,,was feeded pieces from another robot - a robot brought pieces for this robot ,,Yes,3
+4039,9,dorothy,0,0,0,No,No,Yes,No,No,No,Yes,3,0,1,1,0,0,0,1,No,Yes,No,No,No,6,1,No,Yes,No,,too gooD,,No,1
+4039,qual 14,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,3,0,1,2,0,0,2,5,Yes,Yes,Yes,No,No,0,0,No,No,Yes,,,continue d to score,Yes,3
+4039,qual 19,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,2,1,0,2,0,0,3,5,Yes,Yes,No,No,No,0,1,Yes,Yes,No,,,,Yes,3
+4039,qual 23,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,3,0,1,1,0,0,3,5,Yes,Yes,Yes,No,Yes,0,1,Yes,Yes,No,,,2 balanced,Yes,3
+4039,26,Aayan,0,0,2,No,Yes,Yes,No,Yes,No,Yes,3,0,2,2,0,0,3,5,No,Yes,Yes,No,No,4,1,No,Yes,No,,Really fast,,Yes,3
+4039,qual 42,lucy,0,0,2,No,No,Yes,No,Yes,No,Yes,3,0,0,2,0,0,3,0,Yes,Yes,Yes,No,Yes,0,0,No,No,No,,,,Yes,3
+4039,qual 45,lucy,0,0,2,No,No,Yes,No,Yes,No,Yes,2,2,0,2,1,0,4,0,Yes,Yes,No,No,Yes,0,1,No,Yes,No,,,,No,2
+4039,qual 48,Lucy,0,0,2,No,No,Yes,No,Yes,No,Yes,1,0,0,3,0,1,4,0,No,No,No,No,No,0,1,No,Yes,No,,,,Yes,3
+4039,53,,0,0,2,No,Yes,Yes,No,Yes,No,Yes,3,0,0,2,1,0,6,5,No,Yes,No,No,No,3,1,No,Yes,No,,,,Yes,4

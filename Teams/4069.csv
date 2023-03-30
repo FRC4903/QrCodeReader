@@ -1,0 +1,13 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4069,practice 3,Sarah,0,0,3,No,No,No,Yes,No,No,No,1,0,0,2,0,0,2,2,No,No,No,No,No,29,0,No,No,Yes,,"very shaky, had trouble picking up pieces",,No,0
+4069,2,Al,0,0,3,Yes,No,No,Yes,No,No,No,1,1,0,1,0,0,3,2,No,Yes,Yes,No,No,0,0,No,No,Yes,no attempt to score,slow floor pickup,,Yes,2
+4069,6,Miles,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,1,0,0,0,1,No,Yes,Yes,No,No,0,0,No,No,Yes,Didn't score auto,Scored previous game piece ,,Yes,3
+4069,14,Grace,0,0,1,Yes,No,No,Yes,No,No,No,0,1,0,1,0,0,2,2,Yes,Yes,No,No,No,6,1,No,Yes,No,,,,No,3
+4069,24,kai,0,0,3,Yes,No,No,Yes,No,No,No,2,0,0,1,0,0,0,3,Yes,Yes,Yes,Yes,No,0,0,No,No,Yes,,slow arm extend,didn't try to dock,No,1
+4069,27,Medina,0,0,2,No,No,No,Yes,No,No,Yes,0,2,0,0,0,0,0,2,Yes,Yes,Yes,No,No,13,1,No,Yes,No,,,,Yes,3
+4069,qual 31,LS,0,0,2,No,No,No,Yes,No,No,Yes,0,2,1,0,1,0,1,0,Yes,No,No,No,Yes,17,1,No,Yes,No,,awkward and annoyance picking up,,No,1
+4069,42,Aayan,0,0,2,No,No,No,Yes,No,No,No,0,0,2,0,1,0,0,2,No,No,Yes,Yes,No,1,1,Yes,No,No,,pushed pieces slowly to hybrid stations,threw the other robots off balanced at the last second,No,0
+4069,46,Aayan,0,0,2,No,Yes,No,Yes,No,No,Yes,0,2,0,0,0,1,1,2,Yes,No,Yes,No,No,0,0,No,No,Yes,,Took a long time to get pieces from the load station,,Yes,2
+4069,50,Kevin,0,0,3,Yes,No,No,Yes,No,No,No,0,2,0,0,1,0,3,3,Yes,No,Yes,No,No,2,1,Yes,No,No,,fast in delivering but only scored middle row,,Yes,3
+4069,qual 54,Lucy,0,0,2,No,No,No,Yes,No,No,Yes,0,2,0,0,1,1,2,0,No,No,No,No,Yes,0,1,No,Yes,No,,slightly tippy,,Yes,3

@@ -1,0 +1,25 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,practice 4,LS,1,0,2,Yes,No,No,No,No,No,No,0,1,1,0,0,0,0,3,Yes,Yes,No,No,Yes,0,0,No,No,Yes,,tried placing high but fell off,,Yes,0
+5672,3,Miles,0,0,3,No,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,1,No,Yes,No,,arm broke?,,No,1
+5672,7,Miles,0,0,3,Yes,No,No,No,No,No,No,0,0,1,0,0,0,0,3,Yes,Yes,No,No,No,0,1,No,No,No,,dropped cone,not in community,No,1
+5672,13,Miles,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,1,No,Yes,No,,Arm broken?,,Yes,3
+5672,18,Miles,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,2,No,Yes,No,,just defended,,No,1
+5672,23,kai,0,0,none,Yes,No,No,No,No,No,No,0,0,0,0,1,2,0,3,Yes,No,No,No,No,18,1,No,Yes,No,,clunky movement,,No,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,28,Miles,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,0,No,No,No,,literally just got called around ,not in community,Yes,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,33,wisam,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,7,3,Yes,Yes,Yes,dropped cubes and went outside community zone,got nothing no cubes or cones,was docked but 4903 filter the scale,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,33,wisam,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,7,3,Yes,Yes,Yes,dropped cubes and went outside community zone,got nothing no cubes or cones,was docked but 4903 filter the scale,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,36,Miles,0,0,3,No,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,2,No,Yes,No,,,,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,39,Medina,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,Yes,Yes,No,0,0,No,No,Yes,,,,No,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,39,Medina,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,Yes,Yes,No,0,0,No,No,Yes,,,,No,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5672,43,Miles,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,0,No,No,Yes,,,,No,0
+5672,50,MZ,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,0,0,1,1,0,No,No,No,Yes,Yes,16,1,Yes,No,No,,At high risk of tipping. Arm not being used. only acting as shuttle bot and defence. ,,No,0
+5672,50,Miles,0,0,3,No,No,No,Yes,Yes,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,1,Yes,No,No,,,,No,0
+5672,56,Miles,0,0,0,No,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,0,1,No,Yes,No,,,,No,1

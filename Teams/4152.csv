@@ -1,0 +1,16 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4152,practice 2,Grace,1,0,1,No,No,Yes,No,No,No,No,3,0,0,0,0,0,1,3,Yes,No,Yes,No,No,4,1,No,Yes,No,Scored one and picked one up,,,No,0
+4152,practice 3,LS,0,0,2,No,No,Yes,No,No,No,No,2,0,1,1,0,0,0,5,No,Yes,Yes,No,No,12,1,Yes,Yes,No,,dropped pieces without scoring,with 1 other robot,No,0
+4152,practice 4,Grace,0,0,1,Yes,No,Yes,No,Yes,No,No,1,0,0,1,0,0,0,3,No,Yes,No,Yes,Yes,11,2,No,Yes,No,"attempted to pick up and score a cube, missed","started well, then broke and started spinning and going crazy",,Yes,2
+4152,3,Grace,0,1,1,Yes,No,Yes,No,Yes,No,No,1,0,0,2,0,0,2,6,No,No,No,No,No,10,1,No,Yes,No,attempted to place a cube too but missed,"picked up a lot but dropped some, missed a cube",all balanced,No,1
+4152,7,Aayan,0,0,2,No,Yes,Yes,No,Yes,No,Yes,3,0,3,1,0,0,1,4,No,Yes,Yes,No,Yes,16,1,No,Yes,No,,,,Yes,3
+4152,qual 11,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,2,0,0,0,0,0,0,2,Yes,Yes,Yes,No,Yes,0,1,Yes,Yes,No,,,,No,1
+4152,qual 15,MZ,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,2,0,1,1,0,0,0,2,Yes,Yes,Yes,No,No,19,1,Yes,No,No,placed well,did very well knocking up objects and placing them high ,engaged but slipped and failed ,Yes,2
+4152,21,MZ,0,0,2,No,Yes,Yes,No,Yes,Yes,Yes,2,0,1,2,0,0,2,3,No,Yes,No,No,No,12,1,Yes,Yes,No,auto balance very good,a little tippy. had trouble picking blocks up ,balanced well ,No,1
+4152,30,Medina,0,0,2,No,No,Yes,No,No,No,Yes,0,0,0,1,0,1,0,0,No,Yes,Yes,No,No,4,1,No,Yes,No,,robot could be amazing if there was better driving,,No,1
+4152,qual 36,lucy,0,0,2,No,No,No,Yes,Yes,No,No,2,0,0,0,0,0,0,1,Yes,Yes,Yes,No,No,0,1,No,No,Yes,,"slow cycles, crashed a lot",,No,0
+4152,40,MZ,0,0,1,Yes,No,Yes,No,Yes,No,No,1,0,2,2,0,0,2,5,Yes,Yes,No,No,No,13,1,Yes,No,No,,,,Yes,2
+4152,44,Aayan,0,0,2,No,Yes,Yes,No,Yes,No,Yes,3,0,1,1,0,0,0,4,No,Yes,Yes,No,No,19,1,No,Yes,No,,,,No,1
+4152,53,Miles,0,1,3,Yes,No,Yes,No,Yes,No,No,0,0,0,1,0,0,0,2,Yes,No,No,No,No,0,1,No,Yes,No,,cube stuck inside them,,Yes,5
+4152,,,0,0,0,Yes,No,No,Yes,No,No,No,2,0,0,1,0,0,4,3,Yes,Yes,No,No,No,11,0,No,Yes,No,,,,Yes,4

@@ -1,0 +1,18 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,5,Sarah,0,0,1,No,No,No,Yes,No,No,No,0,0,0,1,0,0,0,4,Yes,Yes,No,No,Yes,19,1,Yes,Yes,No,,very hard time picking up and holding on to pieces,,No,0
+7690,qual 8,dorothy,0,0,0,No,No,No,Yes,Yes,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,0,No,No,Yes,,fell,,No,0
+7690,11,Miles,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,1,0,0,0,0,No,No,No,No,No,0,0,No,Yes,No,,Didn't work for majority of match,,No,0
+7690,15,Miles,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,0,0,0,0,1,Yes,No,Yes,No,No,0,0,No,Yes,No,,can't pick up well,,Yes,2
+7690,22,Miles,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,0,0,0,0,1,No,No,No,No,No,0,0,No,Yes,No,,tried to be shuttle for 1325 but too slow,,Yes,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,28,Sarah,0,0,1,Yes,No,No,Yes,Yes,No,No,0,0,2,0,0,0,1,3,Yes,No,No,No,No,23,1,No,No,Yes,,,,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,32,wisam,0,0,3,Yes,No,No,Yes,No,No,No,0,0,0,0,0,1,0,1,No,Yes,No,No,No,0,0,No,No,No,dropped cube on medium bar,got fliped,,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,36,MZ,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,1,0,0,0,0,No,No,Yes,Yes,No,3,0,No,No,Yes,,robot malfunction until endgame,,Yes,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,39,Aayan,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,1,0,0,0,0,No,No,No,Yes,No,0,0,No,No,No,,Did practically nothing for the first 20 seconds then tipped over,,No,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7690,46,Sarah,0,0,1,Yes,No,No,Yes,Yes,No,No,0,0,0,2,0,0,2,2,No,Yes,No,No,Yes,21,1,Yes,No,No,,,,No,2
+7690,51,Kevin,0,0,3,Yes,No,No,Yes,No,No,No,1,1,0,2,0,0,3,3,Yes,No,Yes,No,Yes,0,0,No,No,Yes,,smooth pickup and score,,Yes,3

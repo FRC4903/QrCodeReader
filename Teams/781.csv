@@ -1,0 +1,14 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+781,2,Grace,0,0,1,No,No,Yes,No,No,No,No,1,0,0,0,0,0,0,1,Yes,No,No,No,No,0,0,No,No,Yes,,few seconds in hit a teammate and stopped moving (broken),,No,0
+781,qual 7,LS,0,0,2,No,Yes,Yes,No,No,Yes,No,0,0,0,1,1,0,0,2,Yes,Yes,Yes,No,Yes,13,1,Yes,Yes,No,,tippy,2 balanced,No,1
+781,qual 12,LS,0,0,2,No,Yes,Yes,No,No,Yes,No,0,0,0,0,0,0,1,0,No,No,No,Yes,No,0,1,No,No,Yes,,defends only,,Yes,3
+781,15,Grace,0,0,1,No,No,Yes,No,No,No,No,0,0,1,2,2,0,0,4,No,Yes,No,No,No,0,0,No,No,No,,tipped over,,No,2
+781,25,Miles,0,0,3,No,No,Yes,No,Yes,No,No,0,0,0,0,0,0,0,1,No,Yes,No,Yes,No,0,0,No,No,Yes,,"missed cube high twice, then went to defending",,Yes,3
+781,31,Dorothy,0,0,1,No,No,Yes,No,No,No,No,0,0,0,0,0,3,0,0,No,Yes,No,No,No,12,1,No,Yes,No,,,,Yes,3
+781,31,MZ,0,0,1,No,No,Yes,No,Yes,No,No,0,0,1,1,0,2,3,3,No,Yes,No,No,No,23,1,Yes,Yes,No,,,relatively good balance,Yes,3
+781,37,Miles,0,0,3,No,No,Yes,No,No,No,No,0,0,0,2,0,1,0,4,No,Yes,No,No,Yes,0,0,No,No,Yes,,tank drive,,Yes,2
+781,42,Miles,0,0,none,Yes,No,Yes,No,No,No,No,1,0,0,1,0,1,0,3,No,No,Yes,No,Yes,0,0,No,No,Yes,,,,No,0
+781,46,Miles,0,0,none,Yes,No,Yes,No,No,No,No,0,1,0,0,3,0,0,3,No,Yes,Yes,No,No,0,1,Yes,No,No,,,,Yes,2
+781,51,Miles,0,0,none,Yes,No,Yes,No,No,No,No,0,0,1,1,0,0,0,1,No,No,No,Yes,Yes,0,0,No,No,No,,,,No,0
+781,56,Kevin,0,0,none,Yes,No,Yes,No,No,No,No,0,0,1,2,0,0,3,3,Yes,Yes,Yes,Yes,No,0,0,No,No,No,,tipped over when crashed into,,Yes,3

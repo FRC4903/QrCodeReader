@@ -1,0 +1,15 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6859,1,Grace,0,0,1,No,No,Yes,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,22,1,Yes,No,No,did not move,"missed cone, blocked teammates, ",balanced but got pushed off,No,0
+6859,6,Al,0,0,3,No,No,No,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,0,No,No,No,,did not play,,No,0
+6859,16,kai,0,0,3,No,No,No,No,No,No,No,0,0,1,0,0,0,0,0,No,No,Yes,No,No,0,0,No,No,No,,robot malfunction,,No,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6859,20,kai,0,0,3,No,No,No,No,No,No,No,0,0,1,0,0,0,0,0,No,No,No,No,No,25,1,No,Yes,No,did nothing,did nothing ,,Yes,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6859,28,Al,0,0,1,No,No,Yes,No,No,No,No,0,0,1,0,0,2,0,2,No,No,No,No,No,3,1,No,Yes,No,,slow but pushes to score low,,Yes,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6859,33,Miles,0,0,3,No,No,No,Yes,No,No,No,0,0,0,0,0,1,0,1,No,Yes,No,Yes,No,0,0,No,No,No,,"cube got stuck, went to defending",,Yes,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6859,44,Miles,0,0,3,No,No,No,Yes,No,No,No,0,0,1,0,0,2,0,0,No,Yes,No,No,No,0,0,No,No,No,,pushed cubes around ,,No,1
+6859,48,Kevin,0,0,3,No,No,No,Yes,Yes,No,No,0,0,1,0,0,0,0,1,No,No,No,Yes,No,0,0,No,No,Yes,,,,Yes,3
+6859,54,Miles,0,0,3,No,No,No,Yes,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,1,No,Yes,No,,,,No,1

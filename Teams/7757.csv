@@ -1,0 +1,22 @@
+ ,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,p3,Dorothy,0,0,3,Yes,No,Yes,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,0,No,No,Yes,,stuck on bump and arm too heavy to place,,Yes,2
+7757,3,MZ,0,0,1,No,No,Yes,No,No,No,No,1,0,0,0,0,0,2,0,No,No,No,Yes,No,21,1,Yes,Yes,No,didn't do anything,"didn't pick up, only defended ",balanced well,Yes,3
+7757,7,Sarah,0,0,1,No,No,Yes,No,Yes,No,No,0,0,0,0,0,0,1,0,No,No,No,Yes,No,23,1,Yes,No,No,,never picked up anything,,No,3
+7757,12,Miles,0,0,3,Yes,No,Yes,No,Yes,No,No,0,0,1,0,0,0,0,1,No,Yes,No,No,No,0,0,No,Yes,No,,arm is bad at picking up,,Yes,3
+7757,16,Miles,0,0,3,Yes,No,Yes,No,Yes,No,No,0,0,1,0,0,0,0,1,No,Yes,Yes,No,No,0,0,No,Yes,No,,"tank drive, didn't do much, bad arm",,Yes,1
+7757,23,Sarah,0,0,1,No,No,Yes,No,No,No,No,0,0,1,0,0,0,0,1,Yes,No,No,No,No,6,1,No,Yes,No,,,,No,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,27,Miles,0,0,3,Yes,No,Yes,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,0,No,No,No,,broke after auto,,No,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,32,MZ,0,0,1,No,No,Yes,No,No,No,No,0,0,0,0,0,0,0,0,No,No,No,No,No,0,0,No,No,No,,,did not move the whole game - connection error?,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,q37,rayan,0,0,1,Yes,No,Yes,No,Yes,No,No,0,0,0,0,0,0,0,0,No,No,No,Yes,No,27,1,No,Yes,No,,,,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,37,MZ,0,0,1,Yes,No,Yes,No,Yes,No,No,1,0,0,0,0,0,0,0,No,No,Yes,Yes,No,17,1,Yes,Yes,No,,"didn't attempt to place or pick up, only defended ",,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,41,miles,0,0,3,Yes,No,Yes,No,Yes,No,No,0,0,1,0,0,0,0,1,No,No,Yes,No,No,0,1,Yes,No,No,,stopped mid match,,No,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7757,45,,0,0,3,Yes,No,Yes,No,Yes,No,No,1,0,0,0,0,0,2,0,No,No,Yes,Yes,No,1,0,No,No,No,,,,No,2
+7757,49,Kevin,0,0,3,Yes,No,Yes,No,Yes,No,No,1,0,0,0,0,0,4,0,No,No,Yes,Yes,Yes,2,1,Yes,No,No,,defends a lot successfully,,Yes,3
+7757,53,Grace,0,0,1,No,No,Yes,No,Yes,No,No,0,0,0,1,0,0,0,1,No,Yes,No,No,No,5,1,No,Yes,No,,"struggles to pickup, likely to tip, failed to pickup cone for a while, did not even play defense",,No,0
