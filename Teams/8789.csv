@@ -1,0 +1,4 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Stationable,Did Defend,Was Defended,Not Tipsy,Little Tipsy,Very Tipsy,Time,# of Robot's Docked,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+8789,1,Sarah,0,0,3,Yes,No,No,No,No,No,No,0,0,0,0,0,0,2,0,Yes,No,Yes,No,No,No,No,No,No,25,2,3,No,Yes,No,,,,No,1
+5,Aayan,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,1,0,0,5,3,No,No,No,Yes,Yes,No,No,Yes,No,7,2,1,No,Yes,No,,was a feeder robot - sometimes blocked one team members by accident,,Yes,4
+11,rayan,0,0,3,Yes,No,No,Yes,Yes,No,No,0,0,0,0,2,0,0,2,Yes,No,No,No,Yes,Yes,No,Yes,No,13,2,1,No,Yes,No,,"very slow cube pickup, don't defend well",,No,0

@@ -53,7 +53,7 @@ while True:
             if(os.path.exists(f"Teams\\{Vl[0]}.csv")):
                 with open(f"Teams\\{Vl[0]}.csv", "a", encoding='UTF8') as f:
                     w = csv.writer(f)
-                    w.writerow(Vl[1:])
+                    w.writerow(Vl)
             else:
                 open(f"Teams\\{Vl[0]}.csv", "a").close()
                 with open(f"Teams\\{Vl[0]}.csv", "a", encoding='UTF8') as f:

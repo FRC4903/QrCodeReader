@@ -1,0 +1,3 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Stationable,Did Defend,Was Defended,Not Tipsy,Little Tipsy,Very Tipsy,Time,# of Robot's Docked,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+2852,1,Aayan,0,0,3,Yes,No,No,Yes,Yes,No,No,0,2,0,1,1,0,2,3,Yes,Yes,Yes,Yes,No,No,Yes,No,No,18,3,1,No,Yes,No,,,,Yes,1
+qual 6,lucy,0,0,1,Yes,No,No,Yes,Yes,No,No,0,0,1,0,0,2,0,1,No,Yes,No,No,No,Yes,No,Yes,No,0,2,2,Yes,Yes,No,,veryslow and gripper did not work,,Yes,2

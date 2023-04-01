@@ -1,14 +1,4 @@
-Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Did Defend,Was Defended,Time,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4920,practice 4,dorothy,1,0,3,Yes,No,Yes,No,Yes,No,No,1,0,0,0,0,0,0,0,Yes,Yes,No,No,Yes,30,0,No,Yes,No,,difficulty picking up from station and got bunch of penalties ,,No,0
-4920,1,Miles,0,0,2,No,Yes,Yes,No,Yes,Yes,No,0,1,2,0,0,0,0,3,Yes,No,Yes,No,No,0,0,Yes,No,No,cone high,really fast but missed two cones on high,,No,0
-4920,qual 5,LS,0,0,2,No,Yes,Yes,No,Yes,Yes,No,2,0,0,1,0,0,1,4,Yes,Yes,No,No,Yes,0,1,Yes,Yes,No,,,,Yes,3
-4920,14,,0,0,2,Yes,No,Yes,No,Yes,Yes,No,2,0,1,1,0,0,1,3,No,Yes,Yes,No,No,23,1,Yes,No,No,,,,No,0
-4920,qual 18,LS,0,0,2,Yes,Yes,Yes,No,Yes,Yes,Yes,2,0,0,1,0,0,1,3,Yes,Yes,No,No,Yes,0,0,No,No,Yes,,,,No,1
-4920,qual 21,LS,0,0,2,Yes,Yes,Yes,No,Yes,Yes,No,1,0,2,1,0,0,2,4,Yes,Yes,No,No,Yes,0,1,Yes,Yes,No,,,,Yes,3
-4920,27,Al,0,0,1,Yes,No,No,Yes,Yes,No,No,2,0,1,0,0,0,2,4,Yes,Yes,No,No,No,4,1,No,Yes,No,,congested load station with 1114,,No,1
-4920,31,wisam,0,0,3,No,No,Yes,No,No,No,No,0,0,1,0,0,0,0,3,No,No,No,No,No,4,0,No,No,No,,missed almost all cones among for top pole,no attempt on charge station,Yes,3
-4920,34,wisam,1,0,3,Yes,No,No,Yes,No,No,No,2,0,1,1,0,0,1,3,Yes,Yes,No,No,No,0,0,No,No,No,missed cone and landed on lower ,made one link and missed 2 cones,did not attempt to go on charge station,Yes,3
-4920,qual 47,Lucy,0,0,2,Yes,No,Yes,No,Yes,No,Yes,0,0,0,0,0,1,3,0,Yes,Yes,No,Yes,Yes,0,0,No,No,Yes,,"cone got stuck and they couldn't score, so played defence inste",,Yes,3
-4920,qual 50,Lucy,0,0,2,Yes,No,Yes,No,Yes,No,Yes,1,0,0,1,0,0,0,0,Yes,No,No,No,Yes,19,1,No,Yes,No,,cone got stuck and they couldn't score,,Yes,3
-4920,55,Aayan,0,0,2,Yes,Yes,Yes,No,Yes,Yes,No,2,0,3,0,0,0,0,4,No,Yes,No,No,No,0,0,No,No,Yes,,,,No,1
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Stationable,Did Defend,Was Defended,Not Tipsy,Little Tipsy,Very Tipsy,Time,# of Robot's Docked,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+4920,4,Grace,0,0,2,Yes,No,Yes,No,Yes,Yes,No,2,0,0,0,1,0,3,4,Yes,Yes,No,Yes,No,Yes,Yes,No,No,0,0,0,No,No,Yes,,broke down halfway through,,No,1
+qual 8,Lucy,0,1,1,Yes,No,Yes,No,Yes,No,No,3,0,1,1,0,0,2,0,Yes,Yes,No,No,No,Yes,Yes,No,No,0,0,0,No,No,Yes,,,,Yes,3
+qual 11,Gurjas,0,1,3,Yes,No,Yes,No,Yes,No,No,2,0,0,2,0,3,3,7,Yes,Yes,Yes,No,No,No,Yes,No,No,13,3,2,No,Yes,No,"very good auto, scored, left community and scored another point",farmed points,all three rocker pretty easily,Yes,3

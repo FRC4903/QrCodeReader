@@ -1,0 +1,4 @@
+Team Number,Match Number,Scouter,extra cones,extra cubes,Start Positon,Taxi,Balance Attempt,Preloaded Cone,Preload Cube,Scored Preload,Docked Auto,Engaged Auto,Upper Cone,Mid Cone,Lower Cone,Upper Cube,Mid cube,Lower Cube,Links,Picked Up,Capable to Pick Up From Station,Capable to Pick Up From Floor,Can go over bump,Stationable,Did Defend,Was Defended,Not Tipsy,Little Tipsy,Very Tipsy,Time,# of Robot's Docked,Docking attempts,Endgame Docked,Endgame Engaged,Parked,Auto Notes,Teleop Notes,Endgame Notes,Won,RP
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6070,3,Sarah,0,0,3,Yes,No,No,No,No,No,No,0,0,0,2,0,0,2,2,Yes,No,Yes,No,No,No,Yes,No,No,20,1,0,No,No,Yes,,defend in middle ,,Yes,2
+8,Sarah,0,0,3,Yes,No,No,No,No,No,No,0,0,0,1,0,1,2,3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,12,2,1,No,Yes,No,,,,No,3
