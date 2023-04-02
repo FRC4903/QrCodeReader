@@ -5,16 +5,57 @@ import csv
 import os
 count = 0
 total=0
-mNumber = input("Enter Match Number: ")
-team1 = input("Input Team 1: ")
-team2 = input("Input Team 2: ")
-team3 = input("Input Team 3: ")
-team4 = input("Input Team 4: ")
-team5 = input("Input Team 5: ")
+# mNumber = input("Enter Match Number: ")
+# team1 = input("Input Team 1: ")
+# team2 = input("Input Team 2: ")
+# team3 = input("Input Team 3: ")
+# team4 = input("Input Team 4: ")
+# team5 = input("Input Team 5: ")
 teamlist = [team1,team2,team3,team4,team5]
+
 Teams={
-    f"{team1}":
-    {
+#     f"{team1}":
+#     {
+#         f"ECubes": 0, 
+#         f"ECones": 0,
+#         f"UpperCone": 0,
+#         f"Mid Cone": 0,
+#         f"Lower Cone": 0,
+#         f"Upper Cube": 0,
+#         f"Mid Cube": 0,
+#         f"Lower Cube": 0,
+#         f"Tele-op opr": 0,
+#         f"Auto opr": 0,
+#         f"Robots Balanced": 0,
+#     },
+#        f"{team2}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
+#         f"Mid Cube": 0,
+#         f"Lower Cube": 0,
+#         f"Tele-op opr": 0,
+#         f"Auto opr": 0,
+#         f"Robots Balanced": 0,},
+#        f"{team3}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
+#         f"Mid Cube": 0,
+#         f"Lower Cube": 0,
+#         f"Tele-op opr": 0,
+#         f"Auto opr": 0,
+#         f"Robots Balanced": 0,},
+#        f"{team4}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
+#         f"Mid Cube": 0,
+#         f"Lower Cube": 0,
+#         f"Tele-op opr": 0,
+#         f"Auto opr": 0,
+#         f"Robots Balanced": 0,},
+#        f"{team5}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
+#         f"Mid Cube": 0,
+#         f"Lower Cube": 0,
+#         f"Tele-op opr": 0,
+#         f"Auto opr": 0,
+        # f"Robots Balanced": 0,}
+}
+
+for team in teamlist:
+    Teams[team] = {
         f"ECubes": 0, 
         f"ECones": 0,
         f"UpperCone": 0,
@@ -26,31 +67,7 @@ Teams={
         f"Tele-op opr": 0,
         f"Auto opr": 0,
         f"Robots Balanced": 0,
-    },
-       f"{team2}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
-        f"Mid Cube": 0,
-        f"Lower Cube": 0,
-        f"Tele-op opr": 0,
-        f"Auto opr": 0,
-        f"Robots Balanced": 0,},
-       f"{team3}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
-        f"Mid Cube": 0,
-        f"Lower Cube": 0,
-        f"Tele-op opr": 0,
-        f"Auto opr": 0,
-        f"Robots Balanced": 0,},
-       f"{team4}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
-        f"Mid Cube": 0,
-        f"Lower Cube": 0,
-        f"Tele-op opr": 0,
-        f"Auto opr": 0,
-        f"Robots Balanced": 0,},
-       f"{team5}":{f"ECubes": 0, f"ECones": 0,f"UpperCone": 0,f"Mid Cone": 0,f"Lower Cone": 0,f"Upper Cube": 0,
-        f"Mid Cube": 0,
-        f"Lower Cube": 0,
-        f"Tele-op opr": 0,
-        f"Auto opr": 0,
-        f"Robots Balanced": 0,}}
+    }
 
 if((os.path.exists("Teams"))):
     for i in teamlist:
